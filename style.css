@@ -157,6 +157,7 @@ a {
 	justify-content: center;
 	padding: 20px 0;
 	border-bottom: 1px solid #dedede;
+	cursor: pointer;
 }
 
 #asideMenu .aside-menu li:last-child {
@@ -863,6 +864,7 @@ a {
 		margin-right: 1.6rem;
 		font-family: 'Dosis';
 		font-size: .85rem;
+		cursor: pointer;
 	}
 
 	.top-bar .main-menu li:last-child {
